@@ -1,0 +1,6 @@
+.randomImage {
+    min-width: 375px;
+    max-width: 500px;
+    height: auto;
+    object-fit: contain;
+}

@@ -1,0 +1,6 @@
+.main {
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    height:100vh;
+}
